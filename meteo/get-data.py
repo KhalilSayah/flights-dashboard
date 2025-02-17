@@ -1,2 +1,2 @@
 def get_name():
-    pass
+    return f"voici la meteo"
